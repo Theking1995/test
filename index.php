@@ -1,3 +1,3 @@
 <?php 
-echo "Hi ti every body I Love you all guys ";
+echo "I Love you all guys ";
 ?>
